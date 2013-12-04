@@ -1,0 +1,29 @@
+1.0.6
+
+1.0.5
+  * Added matchers for checking the page's title
+  * updated the Pastie feature
+  * fixed docs
+  * Added default rake task to run the features
+  * moved cucumber watir helpers out of the step_definitions file to their own file under features/support/
+1.0.4.1
+ * Reverted to standard WATIR for IE on Windows
+1.0.4
+ * Made Chrome and FF work on windows
+ * Updated docs to reflect proper running.
+ 
+1.0.3
+ * Pastie steps updated
+ * minor install instruction changes for Windows to fix typo
+
+1.0.2
+ * updated to use beta of webdriver for watir
+
+1.0.1
+ * updated examples, added new feature for Google searching
+ * updated matchers for finding elements by id
+ * updated url steps - should_not contain
+
+
+1.0.0 Initial Release
+
