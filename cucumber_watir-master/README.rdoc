@@ -1,3 +1,25 @@
+jags documentation:
+
+
+ Run All
+
+rake cucumber
+
+rake cucumber BROWSER=firefox
+rake cucumber BROWSER=chrome
+
+Run specefic:
+
+rake cucumber FEATURE=features/twitter.feature
+
+
+
+
+
+
+
+
+
 = Web Testing with Cucumber and WATIR
 
 This is a great way to test web sites or automate web processes using the descriptive
